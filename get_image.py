@@ -1,6 +1,4 @@
-"""
-Sh. Maxmudova
-"""
+
 #  Face register
 
 import dlib
